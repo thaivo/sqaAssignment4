@@ -1,0 +1,20 @@
+{
+    "homepage":{
+        "headline":"HTTP5201-Assignment 4 Home page!",
+        "href":"index.html"
+    },
+
+    "qapage":{
+        "headline":"Quality assurance",
+        "href":"qualityassurance.html"
+    },
+    "securitypage":{
+        "headline":"Security",
+        "href":"security.html"
+    },
+    "examplepage":{
+        "headline":"Bad example",
+        "href":"badexample.html"
+    }
+
+}
